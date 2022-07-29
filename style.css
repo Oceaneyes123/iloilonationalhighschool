@@ -1,0 +1,92 @@
+/*s1gn 1n*/
+.form-signin{
+		margin-left: 200px;
+		width: 350px;
+		padding:10px 10px 10px 10px;
+		border-style: solid;
+		border-color: #e6e6e4;
+		border-width: 1px;
+		border-radius: 16px;
+}
+.form-control{
+	background-color: #fff;
+	color: #000;
+}
+	
+
+.register{
+	padding: 10px 30px 10px 30px;
+}
+
+/*for text index*/
+
+
+
+.text{
+
+	text-align: justify;
+	background-color: #fcfcfc;
+	/*background:url(img/bg.jpg) repeat-x;*/ 
+	padding: 20px 20px 20px 20px; 
+	border-bottom: 3px solid #f2f2f2;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	
+}
+
+
+.error{
+
+	color: red;
+	font-size: 15px; 
+}
+
+
+.success{
+
+	color: green;
+	font-size: 15px;
+}
+
+
+.added{
+	color: green;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+
+.print{
+	padding-right: 50px;
+}
+
+
+
+.upload{
+	padding-right: 100px;
+}
+
+
+.reg{
+	font-size: 15px;
+}
+
+.frm{
+	display: inline-block;
+}
+
+.button-container form,
+.button-container form .form-row .form-group .col-md-3	 {
+    display: inline;
+}
+
+.button-container button {
+    display: inline;
+    vertical-align: middle;
+}
+
+.check{
+	align-self: center;
+	text-align: center;
+	font-size: 12px;
+}
